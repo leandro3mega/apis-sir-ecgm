@@ -1,0 +1,180 @@
+.icon {
+    max-width: 50%;
+    min-width: 10%;
+    height: auto;
+}
+
+p {
+    padding: 0%;
+}
+
+.mb-md-0 {
+    /*margin-bottom: 16px !important;*/
+    padding-top: 16px
+}
+
+.py-4 {
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+}
+
+table {
+    margin-bottom: 2rem;
+    border-radius: .25rem;
+    width: 100%
+}
+
+th {
+    text-align: left;
+    background-color: aliceblue;
+}
+
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+}
+
+tr:hover {
+    background-color: #39747181;
+}
+
+.campostexto {
+    font-family: 'Varela Round';
+    font-size: 80%;
+
+    padding-top: .25rem;
+    padding-right: 1rem;
+    padding-bottom: .25rem;
+    padding-left: 1rem;
+
+    height: auto;
+    width: 95%;
+
+    /*vertical-align: middle;*/
+
+    /*letter-spacing: .5rem;*/
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    /*
+    flex-grow: 1 !important;
+    flex-shrink: 1 !important;
+    flex-basis: auto !important;
+    */
+    border-radius: .25rem;
+
+    margin-right: .5rem !important;
+}
+
+.botaosubmit {
+    background-color: #64a19d;
+    color: white;
+
+    padding-top: .25rem;
+    padding-right: 1rem;
+    padding-bottom: .25rem;
+    padding-left: 1rem;
+
+    border-radius: .25rem;
+
+    width: 95%;
+
+    font-family: 'Varela Round';
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+
+}
+
+.botaosubmit:hover {
+    background-color: #238680;
+}
+
+.botaoremove:hover {
+    background-color: #c42c2c;
+}
+
+.botaoremove {
+    background-color: #e66565;
+    color: white;
+
+    padding-top: .25rem;
+    padding-right: 1rem;
+    padding-bottom: .25rem;
+    padding-left: 1rem;
+
+    border-radius: .25rem;
+
+    width: 95%;
+
+    font-family: 'Varela Round';
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+
+.test {
+    background-color: rgba(255, 255, 255, 0);
+    align-content: center;
+
+    color: rgb(255, 255, 255);
+}
