@@ -10,3 +10,6 @@ Obtenção das coordenadas de uma localização inserida pelo utilizador.
 Obtenção do tempo para umas coordenadas.
 - Google Tasks API: https://developers.google.com/tasks/.
 Obter as tarefas do utilizador depois de login na google.
+
+###### Estado Atual:
+Falta o push do index.html que contém a página do projeto assim como todo o javascript de execução.
